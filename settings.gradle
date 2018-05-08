@@ -1,4 +1,5 @@
 //multiproject
+//more info
 
 include 'model'
 include 'repository', 'web'
